@@ -1,0 +1,16 @@
+# Secrets
+.env
+
+# Virtual environment
+venv/
+
+# Python
+__pycache__/
+*.pyc
+
+# Temporary / generated files
+temp_*.pdf
+*.faiss
+
+# Streamlit
+.streamlit/
